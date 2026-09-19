@@ -1,6 +1,13 @@
 [
     {
         "group": "CA LA TV",
+        "title": "09:00 | Kawasaki Frontale vs Kashima Antlers",
+        "logo": "https://img.gvapi.cc/football/team/937795c0851c1e794e96a5cb660fcd59.png!w80",
+        "url": "https://live05.meung.app/live/99121525_tsc.m3u8",
+        "time": "2026-09-19 09:00:00"
+    },
+    {
+        "group": "CA LA TV",
         "title": "07:30 | Bucheon FC 1995 vs Gimcheon Sangmu FC",
         "logo": "https://img.gvapi.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80",
         "url": "https://live05.meung.app/live/75915087_tsc.m3u8",
@@ -15,16 +22,23 @@
     },
     {
         "group": "CA LA TV",
-        "title": "09:00 | Kawasaki Frontale vs Kashima Antlers",
-        "logo": "https://img.gvapi.cc/football/team/937795c0851c1e794e96a5cb660fcd59.png!w80",
-        "url": "https://live05.meung.app/live/99121525_tsc.m3u8",
-        "time": "2026-09-19 09:00:00"
-    },
-    {
-        "group": "CA LA TV",
         "title": "09:00 | Đồng Tâm Long An vs Bac Ninh",
         "logo": "https://img.gvapi.cc/football/team/347d428c24e85dbda67f7817e7d80ebf.png!w80",
         "url": "https://live05.meung.app/live/75748097_tsc.m3u8",
         "time": "2026-09-19 09:00:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "09:30 | V Varen Nagasaki vs Cerezo Osaka",
+        "logo": "https://img.gvapi.cc/football/team/b28ace839956d8eacce11926ea5e43b3.png!w80",
+        "url": "https://live05.meung.app/live/19919577_tsc.m3u8",
+        "time": "2026-09-19 09:30:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "09:30 | Urawa Reds vs Tokyo Verdy",
+        "logo": "https://img.gvapi.cc/football/team/ca15e36551392e8c99b53b5b2f8531d3.png!w80",
+        "url": "https://live05.meung.app/live/90865415_tsc.m3u8",
+        "time": "2026-09-19 09:30:00"
     }
 ]
