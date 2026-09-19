@@ -1,10 +1,10 @@
 [
     {
         "group": "CA LA TV",
-        "title": "18:45 | Olympique Lyonnais vs Stade Rennais",
-        "logo": "https://img.gvapi.cc/football/team/92fb3cf79ea2ba919b94b04668e13491.png!w80",
-        "url": "https://live05.meung.app/live/59444581_tsc.m3u8",
-        "time": "2026-09-19 18:45:00"
+        "title": "18:00 | Câu lạc bộ AFC Ajax vs Excelsior",
+        "logo": "https://img.gvapi.cc/football/team/187929503752357480bce47813a9741f.png!w80",
+        "url": "https://live05.meung.app/live/07428422_tsc.m3u8",
+        "time": "2026-09-19 18:00:00"
     },
     {
         "group": "CA LA TV",
@@ -15,10 +15,17 @@
     },
     {
         "group": "CA LA TV",
-        "title": "10:30 | Kyrgyzstan U23 vs Nhật Bản U23",
-        "logo": "https://img.gvapi.cc/football/team/2053816a7f21edb8c302ed31b0bafa1f.png!w80",
-        "url": "https://live05.meung.app/live/33982309_tsc.m3u8",
-        "time": "2026-09-20 10:30:00"
+        "title": "18:45 | Toulouse FC vs Le Havre",
+        "logo": "https://img.gvapi.cc/football/team/2947fe2f42551a5b7eccca7fc948f879.png!w80",
+        "url": "https://live05.meung.app/live/14707124_tsc.m3u8",
+        "time": "2026-09-19 18:45:00"
+    },
+    {
+        "group": "CA LA TV",
+        "title": "18:45 | Olympique Lyonnais vs Stade Rennais",
+        "logo": "https://img.gvapi.cc/football/team/92fb3cf79ea2ba919b94b04668e13491.png!w80",
+        "url": "https://live05.meung.app/live/59444581_tsc.m3u8",
+        "time": "2026-09-19 18:45:00"
     },
     {
         "group": "CA LA TV",
@@ -29,10 +36,10 @@
     },
     {
         "group": "CA LA TV",
-        "title": "18:00 | Câu lạc bộ AFC Ajax vs Excelsior",
-        "logo": "https://img.gvapi.cc/football/team/187929503752357480bce47813a9741f.png!w80",
-        "url": "https://live05.meung.app/live/07428422_tsc.m3u8",
-        "time": "2026-09-19 18:00:00"
+        "title": "10:30 | Kyrgyzstan U23 vs Nhật Bản U23",
+        "logo": "https://img.gvapi.cc/football/team/2053816a7f21edb8c302ed31b0bafa1f.png!w80",
+        "url": "https://live05.meung.app/live/33982309_tsc.m3u8",
+        "time": "2026-09-20 10:30:00"
     },
     {
         "group": "CA LA TV",
@@ -54,13 +61,6 @@
         "logo": "https://img.gvapi.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80",
         "url": "https://live05.meung.app/live/99121525_tsc.m3u8",
         "time": "2026-09-19 19:30:00"
-    },
-    {
-        "group": "CA LA TV",
-        "title": "18:45 | Toulouse FC vs Le Havre",
-        "logo": "https://img.gvapi.cc/football/team/2947fe2f42551a5b7eccca7fc948f879.png!w80",
-        "url": "https://live05.meung.app/live/14707124_tsc.m3u8",
-        "time": "2026-09-19 18:45:00"
     },
     {
         "group": "CA LA TV",
